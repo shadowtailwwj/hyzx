@@ -56,12 +56,15 @@
 .order_table{width: 500px; margin-top: 15px;}
 .service_list li{list-style-image: url("../images/dian.jpg");line-height: 28px;}
 
-.search-wrap{margin: 16px;height: 722px;background-color: #fff;}
+.search-wrap{margin: 16px;height: 722px;background-color: #fff;width: 1300px;}
 .search-edit{float: left;font-size: 16px;line-height: 30px;margin-top: 20px;padding: 0 10px;}
 .search-edit_i{background-color: #F5F5F5;font-size: 16px;color: #428bca;padding-left: 10px;width:1100px;}
 
+.order-edit{float: left;font-size: 16px;line-height: 35px;margin-top: 20px;padding: 0 10px;}
+.order-edit_i{font-size: 16px;color: #428bca;padding-left: 10px;width:1100px;border-bottom: solid 1px #d7d7d7}
+.order_title1{color: #666666}
+
 .search_form{margin-left: 100px;float: left;margin-top: 50px;}
-/*.title_form{float: left}*/
 .bd{padding-top: 20px;height: 40px;}
 .bd1{padding-top: 20px;height: 120px;}
 .bd2{padding-top: 30px;height: 45px;}
@@ -70,6 +73,10 @@
 .kuang2{width: 500px;height: 90px;margin-left: 40px;}
 .bun{width: 120px; height: 42px; background-color: #1D94DF;border-radius: 5px;color: #fff;font-size: 18px;font-family: 微软雅黑;margin-left: 100px;border: none}
 .bun1{width: 120px; height: 42px; background-color: #BABABA;border-radius: 5px;color: #fff;font-size: 18px;font-family: 微软雅黑;margin-left: 15px;border: none}
+
+.search-wrap_order{margin-left: 10px;float: left;margin-top: 10px;}
+.result-wrap{margin-left: 10px;float: left;  width:1100px;}
+.result-content{margin-top: 10px;}
 table, td, th
 {
     border:1px solid #d7d7d7;
